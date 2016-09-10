@@ -1,2 +1,1 @@
-# HTML_Session_1Assignment_1
-HTML_Session_1Assignment_1
+Assignment 1.1 – Design an HTML5 page having paragraph & images
